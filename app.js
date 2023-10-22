@@ -68,6 +68,7 @@ videoCard.forEach(item => {
     })
 })
 
+<<<<<<< HEAD
 // card slider
 
 let cardContainers = [...document.querySelectorAll('.card-container')];
@@ -86,4 +87,9 @@ cardContainers.forEach((item, i) =>{
         item.scrollLeft -= containerWidth + 200;
     })
 })
+=======
+
+
+
+>>>>>>> a0e36f53dea0d1591ea1a30d16b1a92248eae24f
 

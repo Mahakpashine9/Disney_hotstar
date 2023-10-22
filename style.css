@@ -195,6 +195,7 @@ body{
     display: none;
 }
 
+<<<<<<< HEAD
 .title{
     color: #fff;
     opacity: 0.9;
@@ -345,6 +346,11 @@ body{
 .nxt-btn:hover img{
     opacity: 1;
 }
+=======
+
+
+
+>>>>>>> a0e36f53dea0d1591ea1a30d16b1a92248eae24f
 
 
 
